@@ -1,3 +1,17 @@
+# DH602 Course Project
+This fork contains the code for the course project of DH602. We attempt to enhance the performance of CITE by using embeddings of the descriptions along with those of the captions. Additionally, we also try to generate new descriptions for unseen images.
+
+## Team Members
+1. Mihika Dhok (20D070026)
+2. Gowtham S. (20D070031)
+3. Rituraj Chaudhari (20D070065)
+4. Sanika Padegaonkar (20D070069)
+5. Sanket Potdar (20D070071)
+6. Shrey Ganatra (20D070074)
+7. Simran Tanwar (20D070078)
+
+---
+
 # [Code] CITE: Connecting Image and Text Embeddings
 
 <!-- select Model and/or Data and/or Code as needed -->
